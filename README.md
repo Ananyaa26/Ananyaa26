@@ -12,7 +12,8 @@
 
 - ⚡ Fun fact **I listen to music a lot!**
 
-<h3 align="left">Connect with me:</h3>
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
+</h3>
 <p align="left">
 <a href="https://twitter.com/ananyaaa_bansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ananyaaa_bansal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ananyaa-bansal-92ab4a20b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ananyaa-bansal-92ab4a20b" height="30" width="40" /></a>
