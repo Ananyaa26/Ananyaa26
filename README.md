@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ananyaa!</h1>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4E22AQG9QjGp5fooYg/feedshare-shrink_2048_1536/0/1675699563601?e=2147483647&v=beta&t=f7Qk-E610CJJoJyS_nycY-zP3fnG0kGEvqRBRRiz5DA">
+<img align="right" alt="Coding" width="400" src="https://github.com/Ananyaa26/Ananyaa26/assets/89255668/65318e75-4564-46d2-8dd6-06130a2656ca">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyaa26&label=Profile%20views&color=0e75b6&style=flat" alt="ananyaa26" /> </p>
 
@@ -8,20 +8,19 @@
 <br/>
 
 
-- 🌱 I’m currently learning **Flutter and Machine Learning**
-
+- 🌱 I’m constantly learning and improving my coding skills
 - 📫 How to reach me **ananya.bansal7979@gmail.com**
-
 - ⚡ Fun fact **I listen to music a lot!**
+- 🎨 I engage in **painting** when I want to be creative and express myself.
+- 💻 I'm currently working on Computer Vision Projects
 <br/>
-
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
 </h3>
 
 <p align="left">
 <a href="https://twitter.com/ananyaaa_bansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ananyaaa_bansal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ananyaa-bansal-92ab4a20b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ananyaa-bansal-92ab4a20b" height="30" width="40" /></a>
-<a href="https://instagram.com/_ananyaabansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ananyaabansal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ananyaa-bansal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ananyaa-bansal" height="30" width="40" /></a>
+<a href="https://www.instagram.com/palettemaagic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="palettemaagic" height="30" width="40" /></a>
 <a href="https://medium.com/@ananya.bansal7979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ananya.bansal7979" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tanuuu26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tanuuu26" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ananyaa_bansal13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ananyaa_bansal13" height="30" width="40" /></a>
@@ -42,7 +41,9 @@
 <br/>
 
  <div align="center">
-<a href="http://www.github.com/Ananyaa26"><img width="54%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ananyaa26&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="Ananyaa's GitHub stats"/></a><a href="http://www.github.com/Ananyaa26"><img alt="TYP Top Language" width="44%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ananyaa26&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
- 
-<a href="http://www.github.com/Ananyaa26"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ananyaa26&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
+<a href="http://www.github.com/Ananyaa26"><img width="52%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ananyaa26&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="Ananyaa's GitHub stats"/></a><a href="http://www.github.com/Ananyaa26"><img alt="TYP Top Language" width="43%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ananyaa26&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+  
+<br/>
+
+<a href="http://www.github.com/Ananyaa26"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ananyaa26&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "98%"/></a>
 </div>
