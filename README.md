@@ -9,8 +9,8 @@
 
 
 - 🌱 I’m constantly learning and improving my coding skills
-- 📫 How to reach me **ananya.bansal7979@gmail.com**
-- ⚡ Fun fact **I listen to music a lot!**
+- 📬 How to reach me **ananya.bansal7979@gmail.com**
+- 🌻 Fun fact **I listen to music a lot!**
 - 🎨 I engage in **painting** when I want to be creative and express myself.
 - 💻 I'm currently working on Computer Vision Projects
 <br/>
