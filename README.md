@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ananyaa!</h1>
 <img align="right" alt="Coding" width="400" src="https://github.com/Ananyaa26/Ananyaa26/assets/89255668/65318e75-4564-46d2-8dd6-06130a2656ca">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyaa26&label=Profile%20views&color=0e75b6&style=flat" alt="ananyaa26" /> </p>
-
 <p align="left"> <a href="https://twitter.com/ananyaaa_bansal" target="blank"><img src="https://img.shields.io/twitter/follow/ananyaaa_bansal?logo=twitter&style=for-the-badge" alt="ananyaaa_bansal" /></a> </p>
 <br/>
 
